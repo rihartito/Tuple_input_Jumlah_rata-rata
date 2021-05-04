@@ -1,7 +1,4 @@
-#Rihar del tito-71200648
-#Universitas Kristen Duta Wacana
-#Tuple
-#https://www.w3resource.com/python-exercises/tuple/
+
 '''
 buatlah sebuah program agar bisa menambahkan atau tidak sesuai inputan user 
 setelah itu rata-ratakan dan jumlahkan semua angka yang ada dituple,hitung ada
